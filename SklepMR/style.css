@@ -15,13 +15,12 @@ header
 {
     position: fixed;
     display: flex;
-    width: 1903px;
+    width: 100%;
     height: 100px;
     background-color: rgb(255, 255, 255);
     margin-left: auto;
     margin-right: auto;
     align-items: center;
-    max-width: 100vw;
 }
 header a
 {
@@ -50,10 +49,9 @@ header a:hover
 {
     height: 1080px;
     background-image: url('https://static.vecteezy.com/system/resources/previews/018/878/343/original/aesthetic-illustration-of-streetwear-t-shirt-design-graphic-typographic-poster-or-tshirts-street-wear-and-urban-style-vector.jpg');
-    background-size: 1920px 1080px;
+    background-size: 100% 1080px;
     background-position: center;
     background-repeat: no-repeat;
-    max-width: 100vw;
 }
 .nowosci
 {
